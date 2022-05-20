@@ -1,19 +1,19 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'Focus Name Service Frontend',
+    description: `Free NFT's on the Polygon Mumbai testnet
+    based on the 'Build your own domain service on a Polygon L2 in a weekend' challenge from
+    @_buildspace`,
+    imgSrc: '/static/images/FocusNameServiceSite.png',
+    href: 'https://focus-name-service-site.vercel.app/',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Cool Focus Domain Contract',
+    description: `This is the backend contract deployed on the Polygon Mumbai testnet.
+    It is used to register and manage nft domains on the testnet. Based on the 'Build your own domain service on a Polygon L2 in a weekend' challenge from
+    @_buildspace`,
+    imgSrc: '/static/images/FocusNameServiceContract.png',
+    href: 'https://github.com/DDecoene/cool-domains',
   },
 ]
 
